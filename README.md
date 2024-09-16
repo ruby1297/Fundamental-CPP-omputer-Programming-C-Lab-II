@@ -2,8 +2,10 @@
 ### course code: CS112 A6
 ### Lecturer: Quang-Thai Ho
 
-The professor mistakenly assigned Assignment 3, but I have already completed it. 
-Therefore, there are two files: hw-3 and hw-3-2 ("correct version").
+The professor mistakenly assigned Assignment 3, but I have already completed it.
+
+Therefore, there are two files: hw-3 and hw-3-2 (*correct version*).
+
 However, the content of Assignment 3 will be used in Task 1 of Assignment 3-2.
 
 |ASSIGNMENT|CONTENT|
